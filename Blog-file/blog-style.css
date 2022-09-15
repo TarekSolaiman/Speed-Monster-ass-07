@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: url("/b6-type-monster-debug-assignment-TarekSolaiman/bg.png");
+    background-image: url("./bg.png");
     background-size: cover;
     background-position: left top;
     font-family: "Zilla Slab", serif;
